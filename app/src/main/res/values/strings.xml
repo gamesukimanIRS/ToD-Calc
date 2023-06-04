@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">T/D Calc</string>
+    <string name="vs">目標降下速度</string>
+    <string name="degrees">目標降下角度</string>
+    <string name="gspeed">現在対地速度(GS)</string>
+    <string name="estimatedft">目標高度</string>
+    <string name="presentft">現在高度</string>
+    <string name="ftm">ft/min</string>
+    <string name="deg">degrees</string>
+    <string name="knot">knot</string>
+    <string name="ft">ft</string>
+    <string name="ftn">ft</string>
+    <string name="degftmtoggle">降下速度で計算</string>
+    <string name="exec">EXEC</string>
+    <string name="resultnm">T/D:</string>
+    <string name="resultvs">V/S:</string>
+</resources>
